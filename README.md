@@ -1,1 +1,1 @@
-# my-time-series-learning
+# my-learning-time-series
